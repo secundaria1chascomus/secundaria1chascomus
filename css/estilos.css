@@ -137,6 +137,9 @@
 #inicio {
   text-align: center;
 }
+#inicio2 {
+  font-size: 1.3rem !important;
+}
 .album-fotos a {
   color: black;
   font-size: 1rem;
