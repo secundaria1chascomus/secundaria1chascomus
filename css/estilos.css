@@ -200,7 +200,9 @@
   color: white !important;
 }
 
-
+.iframe {
+  width: 100%
+}
 
 @media (max-width:600px){
   .contenedor-publ-grales p {
