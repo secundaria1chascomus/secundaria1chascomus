@@ -96,6 +96,7 @@
 }
 .horario {
   font-size: 0.75rem;
+  font-weight: bold;
 }
 .lista-materias li a {
   background-color: #757575;
