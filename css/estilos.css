@@ -206,6 +206,13 @@
   width: 100%
 }
 
+.separacion {
+  color: white !important;
+}
+.separacion1 {
+  text-align: center;
+}
+
 @media (max-width:600px){
   .contenedor-publ-grales p {
     font-size: 0.5rem;
